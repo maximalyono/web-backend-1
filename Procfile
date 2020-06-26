@@ -1,1 +1,1 @@
-web: web-backend-patal
+web: web-backend
